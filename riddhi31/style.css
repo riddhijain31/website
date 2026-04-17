@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    color: white;
+    padding: 50px 20px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.about {
+    background: white;
+}
+
+.projects {
+    background: #e9f5ff;
+}
+
+.card {
+    background: white;
+    margin: 15px auto;
+    padding: 20px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 15px;
+}
